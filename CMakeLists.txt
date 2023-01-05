@@ -1,6 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
 project(ob_robot_test)
-
 echo(testestestsetsetsetse)
 set(sdfdsfsdf14)
 echo(testestestsetsetsetse)
